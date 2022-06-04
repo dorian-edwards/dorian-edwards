@@ -5,7 +5,7 @@
 Welcome to my page! I'm a freelance Fulllstack developer based in the United States(maybe a flag here). Have a look around and feel free to reach out!
 
 - 🔭 I’m currently working on a pomodo timer with NASA API integration
-- 💼 Here is my current [portfolio](https://dorianedwards.netlify.app/)
+- 💼 Here is my current [portfolio](https://dorianedwards.dev/)
 - 🌱 I’m currently learning NodeJS
 - 🤔 I’m looking for help with transitioning from freelance developer to working for a product development firm
 - 📫 How to reach me: [👇🏿](#-contact-me)
